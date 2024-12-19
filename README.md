@@ -32,4 +32,10 @@ To further improve the quality of the Tetris auto player, I have decided to impl
 5.	Does the same steps on the new generation
 
 To ensure accurate weights, the genetic algorithm has been run for 50 generations.
-![image](https://github.com/user-attachments/assets/70deca51-6a82-42da-bfa6-3d42d994c221)
+
+## Example Gameplay
+
+<video width="600" controls>
+  <source src="example_gameplay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
