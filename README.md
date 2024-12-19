@@ -35,9 +35,4 @@ To ensure accurate weights, the genetic algorithm has been run for 50 generation
 
 ## Example Gameplay
 
-<video width="600" controls>
-  <source src="example_gameplay.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 https://github.com/user-attachments/assets/5f4a6cc6-04eb-4fc6-aa6b-0f2a5389ca91
