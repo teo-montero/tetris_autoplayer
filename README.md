@@ -33,6 +33,12 @@ To further improve the quality of the Tetris auto player, I have decided to impl
 
 To ensure accurate weights, the genetic algorithm has been run for 50 generations.
 
+## Files
+
+The file which contains the logic for the Tetris AI Autoplayer is player.py.
+
+The file which contains the genetic algorithm is heuristic_weight_finder.py.
+
 ## Example Gameplay
 
 https://github.com/user-attachments/assets/5f4a6cc6-04eb-4fc6-aa6b-0f2a5389ca91
